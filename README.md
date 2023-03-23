@@ -8,5 +8,8 @@ Smilegift is a python code that will detect your smile and will show you some gi
 <p>4. Enjoy!</p>
 <h1>For the .exe for windows<h1>
 <h4>Hey!, want to download the .exe file?, here you go: http://bit.ly/3ZeYHPk</h4>
+<h1>Warning!</h1>
+<h4>Maybe sometimes you have to end task it manually using taskmanager</h4>
 <h4>Please note that the code maybe not 100% accurate to see your face that is smilling or not, we will try to make it better :)</h4>
+<h4>Thanks, enjoy :)</h4>
   
