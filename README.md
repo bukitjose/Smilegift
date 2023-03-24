@@ -5,7 +5,8 @@ Smilegift is a python code that will detect your smile and will show you some gi
 <p>1. Download the smile.py</p>
 <p>2. Install python</p>
 <p>3. Install the required requirements</p>
-~~~
+~~~python
+#install OpenCV
 pip install opencv-python
 ~~~
 <p>4. Enjoy!</p>
